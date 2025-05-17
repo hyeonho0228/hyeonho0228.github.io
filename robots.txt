@@ -1,4 +1,3 @@
-# 파일명: robots.txt
 User-agent: *
 Allow: /
 Sitemap: https://hyeonho0228.github.io/sitemaps/sitemap.xml
